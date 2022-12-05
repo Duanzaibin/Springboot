@@ -19,6 +19,8 @@ public class BookController {
     @GetMapping
     public String getAll(){
         System.out.println("spring boot start...");
+        System.out.println("spring boot start...");
+        System.out.println("spring boot start...");
         return "spring boot start...";
     }
 }
